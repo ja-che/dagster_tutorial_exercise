@@ -36,14 +36,13 @@ Copy/paste the url in your browser to check the data pipeline
 
 ### Take a look at current data pipeline
 
-Open dagster_pipeline.py
-Take a look at `my_pipeline` job and at the modules called by this job
-### Complete model.py module
+Open `dagster_pipeline.py` and a look at `my_pipeline` job and at the modules called by this job
+### Complete `model.py` module
 
-Instruction are given in model.py
-### Complete dagster_pipeline.py module
+Instruction are given in `model.py`
+### Complete `dagster_pipeline.py` module
 
-Instruction are given in dagster_pipeline.py
+Instruction are given in `dagster_pipeline.py`
 ### Run the pipeline
 
 Same as in prerequisites
