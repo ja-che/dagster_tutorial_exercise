@@ -53,4 +53,4 @@ Same as in prerequisites
 
 ### Bonus: increase your pytest coverage by adding tests
 
-Check existing test in `dagster_tutorial_exercise/dagster_tutorial_exercise/test`
+Check existing test in `dagster_tutorial_exercise/dagster_tutorial_exercise/tests`
