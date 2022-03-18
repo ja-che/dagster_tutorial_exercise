@@ -12,8 +12,8 @@ def my_pipeline():
     '''Dagster pipeline'''
     data = download_cereals()
 
-    # Integrate preprocessed_data and create_models ops
-    # create_models takes as input the output of preprocessed_data
+    # Integrate preprocessed_data and create_model ops
+    # create_model takes the output of preprocessed_data as input
 
     # Complete compute_kpi arguments
     most_calories, most_protein, accuracy = compute_kpi(data)
