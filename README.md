@@ -36,14 +36,21 @@ Copy/paste the url in your browser to check the data pipeline
 
 ### Complete model.py module
 
+Instruction are given in model.py
 ### Complete dagster_pipeline.py module
 
+Instruction are given in dagster_pipeline.py
 ### Run the pipeline
+
+Same as in prerequisites
 
 ### Debug if needed
 
+Do the magic
 ### Dagit
 
-Check the new data pipeline
+Same as in prerequisites
 
 ### Bonus: increase your pytest coverage by adding tests
+
+Check existing test in `dagster_tutorial_exercise/dagster_tutorial_exercise/test`
